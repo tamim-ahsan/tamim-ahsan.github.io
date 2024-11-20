@@ -17,6 +17,12 @@ editor: visual
 -   Python
 -   C
 
+## Statistics
+- Linear models
+- Multivariate statistics
+- Statistical learning
+- Probability distributions
+
 ## Wet-lab Techniques
 
 ### Molecular biology
