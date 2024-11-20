@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Tamim Ahsan"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - text: About
+        menu:
+          - text: Eductaion
+            href: education.qmd
+          - text: Experiences
+            href: experiences.qmd
+          - text: Research Interests
+            href: res_interest.qmd
+          - text: Skill Set
+            href: skillset.qmd
+      - href: publications.qmd
+        text: Publications
+      - href: cv.qmd
+        text: CV 
+        
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

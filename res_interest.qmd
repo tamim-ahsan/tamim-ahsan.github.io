@@ -1,0 +1,16 @@
+---
+title: "Research Interests"
+format: html
+editor: visual
+---
+
+## Computational biology
+- Single-cell epigenomics and transcriptomics
+- Spatial transcriptomics
+- Multi-omics data integration
+- Network biology
+
+## Neuroscience
+- Molecular mechanisms of stress-related psychopathology
+- Impact of early life adversity on human brain
+- Subtyping of psychiatric disorders

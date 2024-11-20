@@ -1,0 +1,29 @@
+---
+title: "Publications"
+---
+
+## Selected Publications
+
+1. [Heterogeneity in the distribution of 159 drug-response related SNPs in world populations and their genetic relatedness](https://doi.org/10.1371/journal.pone.0228000)
+
+![](Images/Publication_1.PNG)
+
+2. [Role of the redox state of the Pirin-bound cofactor on interaction with the master regulators of inflammation and other pathways](https://doi.org/10.1371/journal.pone.0289158)
+
+![](Images/Publication_2.PNG)
+
+3. [Disparities in COVID-19 severities and casualties across ethnic groups around the globe and patterns of ACE2 and PIR variants](https://doi.org/10.1016/j.meegid.2021.104888)
+
+![](Images/Publication_3.PNG)
+
+4. [Repurposing of approved drugs with potential to interact with SARS-CoV-2 receptor](https://doi.org/10.1016/j.bbrep.2021.100982)
+
+![](Images/Publication_4.PNG)
+
+5. [Effects of arsenic and heavy metals on metabolic pathways in cells of human origin: Similarities and differences](https://doi.org/10.1016/j.toxrep.2021.05.015)
+
+![](Images/Publication_5.PNG)
+
+
+## All Publications
+To get a full list of my publications, please click [here](https://scholar.google.com/citations?user=NfSnVxoAAAAJ) to visit my Google Scholar account.

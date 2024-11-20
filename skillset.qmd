@@ -1,0 +1,35 @@
+---
+title: "Skill Set"
+format: html
+editor: visual
+---
+
+## Bioinformatics
+- Genome assembly and annotation
+- Functional genomics
+- Network analysis
+- Unimodal and multimodal data analyses
+
+## Programming Languages
+- R
+- Python
+- C
+
+## Wet-lab Techniques
+### Molecular biology
+- PCR
+- qPCR
+- Western blotting
+- Genetic transformation
+- Sanger sequencing
+- Next generation sequencing (NextSeq2000 Platform)
+
+### Microbiology
+- Bacterial culture
+- Microscopy
+- Pathogen identification
+
+### Biotechnology
+- Fermentation
+- Plant tissue culture
+- Testing bioactive propeties of compopunds in animal models
