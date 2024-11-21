@@ -15,7 +15,8 @@ editor: visual
 
 ## Master's
 
-**Major:** Marine Biotechnology **Duration:** 2018 - 2020\
+**Major:** Marine Biotechnology  
+**Duration:** 2018 - 2020\
 **CGPA:** 4.00 on a scale of 4.00\
 **Department:** Genetic Engineering and Biotechnology\
 **Faculty:** Earth and Ocean Science\
