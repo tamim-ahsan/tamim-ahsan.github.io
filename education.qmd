@@ -5,40 +5,40 @@ editor: visual
 ---
 
 ## Doctor of Philosophy
-**Duration:** August 2023 - Present  
-**Lab:** [MINDS Lab](https://mindslaboratory.wordpress.com)  
-**School:** Chemistry and Molecular Bioscience  
-**Faculty:** Scienece, Medicine and Health  
-**University:** University of Wollongong, New South Wales, Australia  
-**Project:** Developing and applying new bioinformtics pipelines to integrate single-cell and spatial omics data to understand how adversity impacts the brains of psychaitric patients 
 
+**Duration:** August 2023 - Present\
+**Lab:** [MINDS Lab](https://mindslaboratory.wordpress.com)\
+**School:** Chemistry and Molecular Bioscience\
+**Faculty:** Scienece, Medicine and Health\
+**University:** University of Wollongong, New South Wales, Australia\
+**Project:** Developing and applying new bioinformtics pipelines to integrate single-cell and spatial omics data to understand how adversity impacts the brains of psychaitric patients
 
 ## Master's
-**Major:** Marine Biotechnology
-**Duration:** 2018 - 2020  
-**CGPA:** 4.00 on a scale of 4.00  
-**Department:** Genetic Engineering and Biotechnology  
-**Faculty:** Earth and Ocean Science  
-**University:** BSMR Maritime University, Bangladesh  
-**Thesis Title:** Phytochemical screening and evaluation of antioxidant, cytotoxic and antibacterial activities of ethanolic and methanolic extracts of _Halimeda opuntia_  
 
+**Major:** Marine Biotechnology **Duration:** 2018 - 2020\
+**CGPA:** 4.00 on a scale of 4.00\
+**Department:** Genetic Engineering and Biotechnology\
+**Faculty:** Earth and Ocean Science\
+**University:** BSMR Maritime University, Bangladesh\
+**Thesis Title:** Phytochemical screening and evaluation of antioxidant, cytotoxic and antibacterial activities of ethanolic and methanolic extracts of *Halimeda opuntia*
 
 ## Bachelor of Schience (Honours)
-**Duration:** 2024-2018  
-**CGPA:** 3.97 on a scale of 4.00  
-**Department:** Genetic Engineering and Biotechnology  
-**Faculty:** Biological Science  
-**University:** University of Dhaka, Bangladesh  
+
+**Duration:** 2014-2018\
+**CGPA:** 3.97 on a scale of 4.00\
+**Department:** Genetic Engineering and Biotechnology\
+**Faculty:** Biological Science\
+**University:** University of Dhaka, Bangladesh\
 **Honours Project:** Metformin-associated lactic acidosis
 
-
 ## Higher Secondary Certificate
-**Completed in:** 2013  
-**GPA:** 5.00 on a scale of 5.00  
-**Institute:** Rajuk Uttara Model School and College, Bangladesh 
 
+**Completed in:** 2013\
+**GPA:** 5.00 on a scale of 5.00\
+**Institute:** Rajuk Uttara Model School and College, Bangladesh
 
 ## Secondary School Certificate
-**Completed in:** 2011  
-**GPA:** 5.00 on a scale of 5.00  
-**Institute:** Rajuk Uttara Model School and College, Bangladesh 
+
+**Completed in:** 2011\
+**GPA:** 5.00 on a scale of 5.00\
+**Institute:** Rajuk Uttara Model School and College, Bangladesh
