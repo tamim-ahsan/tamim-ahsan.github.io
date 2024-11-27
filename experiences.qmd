@@ -48,7 +48,8 @@ Dhaka, Bangladesh
 Department of Genetic Engineering and Biotechnology\
 Faculty of Biological Science\
 University of Dhaka\
-Dhaka, Bangladesh
+Dhaka, Bangladesh\
+Supervisor: [Professor Abu Ashfaqur Sajib](https://www.du.ac.bd/faculty/faculty_details/GET/1622)
 
 ## Research Intern
 
