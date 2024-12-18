@@ -13,7 +13,7 @@ editor: visual
 **University:** University of Wollongong, New South Wales, Australia\
 **Project:** Developing and applying new bioinformtics pipelines to integrate single-cell and spatial omics data to understand how adversity impacts the brains of psychaitric patients
 
-## Master's
+## Master's (with Thesis)
 
 **Major:** Marine Biotechnology\
 **Duration:** 2018 - 2020\
