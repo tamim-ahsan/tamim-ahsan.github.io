@@ -18,6 +18,8 @@ website:
             href: res_interest.qmd
           - text: Skill Set
             href: skillset.qmd
+          - text: Memberships
+            href: memberships.qmd
       - href: publications.qmd
         text: Publications
       - href: cv.qmd
