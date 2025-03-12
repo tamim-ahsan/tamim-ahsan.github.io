@@ -4,30 +4,47 @@ format: html
 editor: visual
 ---
 
-## Vice-President (Coursework)
+## Councils and Committees
+
+### Vice-President (Coursework)
 
 *February 2025 - Present*\
 Wollongong University Postgraduate Association (WUPA)\
 University of Wollongong\
-New South Wales, Australia
+New South Wales, Australia\
 
-## HDR Candidate Representative
+### HDR Candidate Representative
 
 *February 2025 - Present*\
 Graduate Research Committee\
 Faculty of Science, Medicine and Health\
 University of Wollongong\
-New South Wales, Australia
+New South Wales, Australia\
 
-## Student Member
-
-*November 2024 - Present*\
-Australian Bioinformatics and Computational Biology Society (ABCBS)
-
-## Member
+### Member
 
 *September 2020 - August 2021*\
 Executive Committee (2nd)\
 Genetic Engineering and Biotechnology Alumni Association\
 University of Dhaka\
-Dhaka, Bangladesh
+Dhaka, Bangladesh\
+\
+
+## Associations
+
+### Member
+
+*March 2025 - Present*\
+Global Alliance for Spatial Technologies (GESTALT)\
+[Website](https://globalspatial.org)\
+
+### Member
+
+*February 2025 - Present*\
+Association for Single Cell Analysis (ASCA)\
+[Website](https://ascanet.org)\
+
+### Student Member
+
+*November 2024 - Present*\
+Australian Bioinformatics and Computational Biology Society (ABCBS)\
