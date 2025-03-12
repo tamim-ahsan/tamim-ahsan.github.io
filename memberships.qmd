@@ -1,5 +1,5 @@
 ---
-title: "Committees and Other Memberships"
+title: "Memberships"
 format: html
 editor: visual
 ---
