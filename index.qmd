@@ -29,4 +29,4 @@ I am a **PhD Candidate** at the School of Science, **University of Wollongong**,
 
 My PhD project adopts a **spatially resolved single-nucleus multimodal** approach to delineate **stress-induced molecular changes** in the **brains** of **psychiatric patients**.
 
-In future, I aspire to continue leveraging single-cell and spatial omics technologies to illustrate the molecular underpinnings of complex biological processes. 
+In future, I aspire to continue leveraging **single-cell** and **spatial omics** technologies to illustrate the molecular underpinnings of complex biological processes. 
