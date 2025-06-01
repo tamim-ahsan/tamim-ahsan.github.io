@@ -13,13 +13,16 @@ about:
     - icon: github
       text: Github
       href: https://github.com/tamim-ahsan
-    - icon: twitter-x
-      text: Twitter
-      href: https://x.com/TamimAhsan10
     - text: ORCiD
       href: https://orcid.org/0000-0002-2006-5958 
     - text: Bluesky
       href: https://bsky.app/profile/tamim-ahsan.bsky.social
+    - icon: newspaper
+      text: Blog
+      href: https://nonlinear-thoughts.netlify.app
+    - icon: twitter-x
+      text: Twitter
+      href: https://x.com/TamimAhsan10
     - icon: envelope
       text: Email
       href: mailto:ta941@uowmail.edu.au
