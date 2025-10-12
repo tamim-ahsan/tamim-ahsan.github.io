@@ -26,9 +26,7 @@ editor: visual
 ## Machine Learning
 
 -   Supervised (classification and regression)
-
 -   Unsupervised (clustering, dimensionality reductions)
-
 -   Self-supervised (contrastive and noncontrastive)
 
 ## Wet-lab Techniques
