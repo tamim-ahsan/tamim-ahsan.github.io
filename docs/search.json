@@ -158,14 +158,14 @@
     "href": "skillset.html",
     "title": "Skill Set",
     "section": "",
-    "text": "Genome assembly and annotation\nFunctional genomics\nNetwork analysis\nUnimodal and multimodal data analyses"
+    "text": "Genome assembly and annotation\nFunctional genomics\nNetwork analysis\nUnimodal and multimodal (single-cell and bulk) data analyses"
   },
   {
     "objectID": "skillset.html#bioinformatics",
     "href": "skillset.html#bioinformatics",
     "title": "Skill Set",
     "section": "",
-    "text": "Genome assembly and annotation\nFunctional genomics\nNetwork analysis\nUnimodal and multimodal data analyses"
+    "text": "Genome assembly and annotation\nFunctional genomics\nNetwork analysis\nUnimodal and multimodal (single-cell and bulk) data analyses"
   },
   {
     "objectID": "skillset.html#programming-languages",
@@ -179,14 +179,14 @@
     "href": "skillset.html#statistics",
     "title": "Skill Set",
     "section": "Statistics",
-    "text": "Statistics\n\nLinear models\nMultivariate statistics\nStatistical learning\nProbability distributions"
+    "text": "Statistics\n\nLinear and non-linear models (multiple linear regression, generalized linear models, nonlinear regression)\nHypothesis testing (t-test, Wilcoxon rank-sum test, ANOVA, ANCOVA)\nDimensionality reductions (PCA, PLS-DA, UMAP, t-SNE)"
   },
   {
     "objectID": "skillset.html#wet-lab-techniques",
     "href": "skillset.html#wet-lab-techniques",
     "title": "Skill Set",
     "section": "Wet-lab Techniques",
-    "text": "Wet-lab Techniques\n\nMolecular biology\n\nPCR\nqPCR\nWestern blotting\nGenetic transformation\nSanger sequencing\nNext generation sequencing (NextSeq 2000)\n\n\n\nMicrobiology\n\nBacterial culture\nMicroscopy\nPathogen identification\n\n\n\nBiotechnology\n\nFermentation\nPlant tissue culture\nTesting bioactive propeties of compopunds in animal models"
+    "text": "Wet-lab Techniques\n\nMolecular biology\n\nPCR\nqPCR\nWestern blotting\nGenetic transformation\nSanger sequencing\nNext generation sequencing (NextSeq 2000)\nFlow cytometry\n\n\n\nMicrobiology\n\nBacterial culture\nMicroscopy\nPathogen identification\n\n\n\nBiotechnology\n\nFermentation\nPlant tissue culture\nTesting bioactive propeties of compopunds in animal models"
   },
   {
     "objectID": "memberships.html",
@@ -250,5 +250,12 @@
     "title": "Memberships",
     "section": "Associations",
     "text": "Associations\n\nStudent Member\nMay 2025 - Present\nAustralasian Neuroscience Society (ANS)\nWebsite\n\n\n\nMember\nMarch 2025 - Present\nGlobal Alliance for Spatial Technologies (GESTALT)\nWebsite\n\n\n\nMember\nFebruary 2025 - Present\nAssociation for Single Cell Analysis (ASCA)\nWebsite\n\n\n\nStudent Member\nNovember 2024 - Present\nAustralian Bioinformatics and Computational Biology Society (ABCBS)\nWebsite"
+  },
+  {
+    "objectID": "skillset.html#machine-learning",
+    "href": "skillset.html#machine-learning",
+    "title": "Skill Set",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\nSupervised (classification and regression)\nUnsupervised (clustering, dimensionality reductions)\nSelf-supervised (contrastive and noncontrastive)"
   }
 ]

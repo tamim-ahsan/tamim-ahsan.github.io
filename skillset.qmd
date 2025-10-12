@@ -9,7 +9,7 @@ editor: visual
 -   Genome assembly and annotation
 -   Functional genomics
 -   Network analysis
--   Unimodal and multimodal data analyses
+-   Unimodal and multimodal (single-cell and bulk) data analyses
 
 ## Programming Languages
 
@@ -18,10 +18,18 @@ editor: visual
 -   C
 
 ## Statistics
-- Linear models
-- Multivariate statistics
-- Statistical learning
-- Probability distributions
+
+-   Linear and non-linear models (multiple linear regression, generalized linear models, nonlinear regression)
+-   Hypothesis testing (t-test, Wilcoxon rank-sum test, ANOVA, ANCOVA)
+-   Dimensionality reductions (PCA, PLS-DA, UMAP, t-SNE)
+
+## Machine Learning
+
+-   Supervised (classification and regression)
+
+-   Unsupervised (clustering, dimensionality reductions)
+
+-   Self-supervised (contrastive and noncontrastive)
 
 ## Wet-lab Techniques
 
@@ -33,6 +41,7 @@ editor: visual
 -   Genetic transformation
 -   Sanger sequencing
 -   Next generation sequencing (NextSeq 2000)
+-   Flow cytometry
 
 ### Microbiology
 

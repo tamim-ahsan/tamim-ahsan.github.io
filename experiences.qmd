@@ -57,4 +57,4 @@ Supervisor: [Professor Abu Ashfaqur Sajib](https://www.du.ac.bd/faculty/faculty_
 Genomics Facility\
 Monash University Malaysia\
 Selangor Darul Ehsan, Malaysia\
-Contact Person: [Professor Sadequr Rahman](https://research.monash.edu/en/persons/sadequr-rahman)
+Contact Person: Professor Sadequr Rahman
