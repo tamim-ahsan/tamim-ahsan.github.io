@@ -7,6 +7,7 @@ editor: visual
 ## Councils and Committees
 
 ### Member
+
 Molecular Horizons Seminar Committee\
 University of Wollongong\
 New South Wales, AUstralia\
@@ -19,6 +20,11 @@ School of Science\
 University of Wollongong\
 New South Wales, Australia\
 
+### Member
+
+*August 2026 - Present*\
+Australia National Cohort\
+Commonwealth Student Community for AI Governance\
 
 ### HDR Candidate Representative
 
