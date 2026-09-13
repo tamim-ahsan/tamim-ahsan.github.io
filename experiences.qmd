@@ -4,36 +4,50 @@ format: html
 editor: visual
 ---
 
-## Research Affiliate
+## Research Officer
 
-*May 2024 - Present*\
+*September 2026 - Present*\
 School of Medical Sciences\
 Faculty of Science and Medicine\
 University of Sydney\
 New South Wales, Australia
 
-## Part-time Teaching
+## Casual Academic
 
 *February 2024 - Present*\
-School of Chemistry and Molecular Bioscience\
+School of Science\
 Faculty of Science, Medicine and Health\
+University of Wollongong\
+New South Wales, Australia
+
+## Exam Supervisor
+
+*November 2025 - Present*\
 University of Wollongong\
 New South Wales, Australia
 
 ## Guest Scientist
 
 *November 2023 - Present*\
-[Knauer-Arloth Lab](https://www.psych.mpg.de/2664393/medizinische-genomforschung)\
 Department Genes and Environment\
 Max Planck Institute of Psychiatry\
 Munich, Germany
 
-## Scientific Officer (on deputation)
+## Scientific Officer
 
 *October 2021 - Present*\
 Molecular Biotechnology Division\
 National Institute of Biotechnology\
 Dhaka, Bangladesh
+
+## Research Affiliate
+
+*May 2024 - September 2026*\
+School of Medical Sciences\
+Faculty of Science and Medicine\
+University of Sydney\
+New South Wales, Australia
+
 
 ## Part-time Faculty
 
