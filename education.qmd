@@ -7,7 +7,7 @@ editor: visual
 ## Doctor of Philosophy
 
 **Duration:** August 2023 - Present\
-**Lab:** [MINDS Lab](https://mindslaboratory.wordpress.com)\
+**Lab:** [MINDS Lab](https://mindslaboratory.com)\
 **School:** Science\
 **Faculty:** Science, Medicine and Health\
 **University:** University of Wollongong, New South Wales, Australia\
